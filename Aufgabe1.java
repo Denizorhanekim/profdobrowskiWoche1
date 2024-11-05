@@ -167,6 +167,8 @@ System.out.println(uppercaseChar('@'));
 
 	        return maximum;
 	    }
+	// Aufgabe 8 Methode
+	
 	  public static char uppercaseChar(char c) {
 	        
 	        if (c >= 'a' && c <= 'z') {
